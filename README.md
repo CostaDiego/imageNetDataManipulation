@@ -1,2 +1,2 @@
-# Imagenet Data Manipulation
+# ImageNet Data Manipulation
 The Imagenet Data Manipulation Repository
